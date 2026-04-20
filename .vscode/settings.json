@@ -1,0 +1,6 @@
+{
+ "git.allowForcePush": true,
+ "editor.formatOnSave": true,
+ "editor.fontSize": 18,
+ "files.autoSave": "offON"
+}
